@@ -1,0 +1,120 @@
+Here's an extraction of all the questions from the Object Oriented Analysis and Design (IT 227) course, organized by year and corrected where necessary:
+
+2017 (March - April):
+
+Group A: Brief Answer Questions (1 mark each)
+1. What is class diagram?
+2. List the characteristics of unified process.
+3. Define actor in use case diagram.
+4. What are the types of interaction diagrams?
+5. What is dynamic model?
+6. Define a conceptual class.
+7. When is an aggregation said to be composite aggregation?
+8. What is activity diagram?
+9. List any two types of common association.
+10. What is observer pattern?
+
+Group B: Exercise Problems (4 marks each)
+1. Describe any two phases of unified process.
+2. Describe singleton pattern with a simple code.
+3. Explain information expert pattern with example.
+4. Explain sequence diagram with example.
+5. How can Use Cases be related? Describe.
+
+Group C: Comprehensive Questions (5 marks each)
+1. Explain the different components of GRASP design pattern.
+2. Write full program to demonstrate Factory pattern for shape classes (rectangle, square, circle).
+
+2018 (March-April):
+
+Group A: Brief Answer Questions (1 mark each)
+1. What does actor represent in use case diagram?
+2. What is layered architecture?
+3. Define 100% rule.
+4. What is abstract class?
+5. When is "includes" used in use case diagram?
+6. What is the use of activity diagram?
+7. List three kinds of actor.
+8. What is domain model?
+9. What is meant by low coupling?
+10. What is component diagram?
+
+Group B: Exercise Problems (4 marks each)
+1. Write class in Java (or any other OOP).
+2. Write simple program to explain adapter pattern.
+3. Explain how Sequence diagram can be converted to program (code).
+4. People watch movies. People have name, gender, address and movies are described by movie name, duration and genre. Make a class diagram for this scenario.
+5. Write a program to explain factory pattern.
+
+Group C: Comprehensive Questions (5 marks each)
+1. Why have design patterns been developed? Provide an example to illustrate how responsibilities of creating objects of class "B" is assigned to class "A". Here assume any real world classes for A and B.
+2. Why is unified process (UP) for software development suggested when there is already traditional system development method? What are the things done in inception phase?
+
+2019 (April):
+
+Group A: Brief Answer Questions (1 mark each)
+1. What do you mean by low coupling?
+2. What is 'includes' in use case?
+3. What are the strategies to find conceptual classes?
+4. When are Specification Conceptual Classes Required?
+5. Why is an activity diagram needed in behavioral modeling?
+6. What is collaboration diagram?
+7. Define adapter design pattern.
+8. List any five GRASP patterns.
+9. Why is high cohesive design needed?
+10. What do you mean by iterative development method?
+
+Group B: Exercise Problems (4 marks each)
+1. Draw a sequence diagram for the exam process (given scenario).
+2. Define information expert design pattern with example.
+3. Draw a class diagram for the library system (given scenario).
+4. Explain factory pattern with code.
+
+2022 (January):
+
+Group A: Brief Answer Questions (1 mark each)
+1. Why do we need interface?
+2. What is the importance of Use-Case Generalization?
+3. List any two symbols and their task used in activity diagram.
+4. Why should we prepare deployment diagram?
+5. Give an example of association and composition.
+6. What is an iteration?
+7. How can we achieve high cohesion?
+8. How do we represent abstract class and interface in the descriptive class diagram?
+9. Why does OOAD prefer low coupling?
+10. How can State Diagram be used for modeling dynamic behavior of the system?
+
+Group B: Exercise Problems (4 marks each)
+1. Define Abstract Factory Pattern. Use any OOP language to implement Singleton.
+2. Draw Domain Class Diagram for Online Food ordering system.
+3. Draw a system sequence diagram for withdrawing cash from ATM machine.
+4. Explain about observer pattern with an example.
+5. Prepare Use Case Diagram and an activity diagram for online movie rental system.
+
+Group C: Comprehensive Questions (5 marks each)
+1. List all phases of Rational Unified Process. Explain the use of package diagram.
+
+2023 (January):
+
+Group A: Brief Answer Questions (1 mark each)
+1. Why is UML regarded both as a tool and a language?
+2. How do we represent abstract class and interface in a class diagram?
+3. Define description class.
+4. List the components of use case diagram.
+5. Why should inception phase be of short duration?
+6. Define UML state diagram.
+7. What are the input and output artifacts of elaboration phase?
+8. How can we avoid direct coupling between two or more elements?
+9. Define 100% rule.
+10. What is domain model?
+
+Group B: Exercise Problems (4 marks each)
+1. Draw a Use-Case diagram for a courier company, FedEx (given scenario).
+2. Draw a SSD for blood bank system (given scenario).
+3. Create an activity diagram for downloading your favorite ring-tone after payment (given scenario).
+4. What do you mean by pure fabrication? How can it be achieved?
+5. Discuss about creator and information expert.
+
+Group C: Comprehensive Questions (5 marks each)
+1. List and explain each phase of UP by mentioning the input and output artifacts of each phase.
+2. Define Observer pattern. Write a prototype in Java code to demonstrate factory pattern.

@@ -1,0 +1,216 @@
+Here are the questions extracted and corrected:
+
+---
+
+### 2013 Exam
+
+**Group “A”**  
+Brief Answer Questions: (10x1=10)  
+1. a. Define agents.  
+   b. What are the various components of problem definition in searching?  
+   c. Write the limitation of propositional logic over predicate logic.  
+   d. State Modus Tollens inference rule with a suitable example.  
+   e. What is meant by logical equivalence?  
+   f. Define reinforcement learning.  
+   g. Why is pragmatic analysis required in NLP?  
+   h. What is meant by an expert system shell?  
+   i. Is it possible to develop an expert system if the domain expert does not have computer programming knowledge? Give a reason.  
+   j. What is the nature of the output for a neuron with a threshold activation function?
+
+**Group “B”**  
+Short Answer Questions: (5x3=15)  
+2. Define agent function. Give some agent functions for a robot that can cross the road as humans do.  
+3. What is heuristic search? Write the A* search algorithm.  
+4. State and explain the resolution principle for propositional logic.  
+5. Define logical consequence. Prove that (P OR Q) is a logical consequence of (P&Q), but (P&Q) is not a logical consequence of (P OR Q).  
+6. Solve the cryptarithmetic problem:  
+   ```
+   CROSS  
+   + ROADS  
+   --------  
+   DANGER
+   ```
+
+**Group “C”**  
+Long Answer Questions: (1x15=15)  
+7. Define the Mini-Max Search procedure with suitable figures.  
+8. Define genetic algorithm. Explain how a system learns.  
+9. Explain neural networks. Write the backpropagation training algorithm for a feedforward neural network.
+
+---
+
+### 2014 Exam
+
+**Group “A”**  
+Brief Answer Questions: (10x1=10)  
+1. a. What does the cognitive approach resemble in AI?  
+   b. What is a rational agent?  
+   c. What are the problems in hill climbing search?  
+   d. Write Modus Ponens rule.  
+   e. Differentiate omniscience and artificial intelligence.  
+   f. List the parameters of NLP.  
+   g. What do you mean by a dynamic environment?  
+   h. What’s the use of sensors?  
+   i. Define Disjunctive Normal Form (DNF).  
+   j. What is the theme of the monkey-banana problem?
+
+**Group “B”**  
+Short Answer Questions: (5x3=15)  
+2. Describe the concept of Hebbian learning.  
+3. Consider the following statements:  
+   - Everyone who loves all animals is loved by someone.  
+   - Jack loves all animals.  
+   Convert the above statements into first-order predicate logic and use different inference rules to prove that Jack is loved by someone.  
+4. What is the concept behind the Turing Test? Explain artificial intelligence from the "Acting Humanly" perspective.  
+5. Define constraint satisfaction problem. Solve the following cryptarithmetic problem:  
+   ```
+   WRONG  
+   + WRONG  
+   --------  
+   RIGHT
+   ```  
+6. What do you mean by machine vision? Explain its application areas and machine vision stages briefly.
+
+**Group “C”**  
+Long Answer Questions: (1x15=15)  
+7. What is an Artificial Neural Network? Point out some practical difficulties associated with ANN to implement it on an agent easily. Explain the McCulloch-Pitts neuron model and realize AND and OR gates with ANN.  
+8. What are the differences between game search and other search techniques? Explain the Mini-Max search algorithm with the concept of alpha-beta pruning.  
+9. Why is understanding the environment necessary for an agent to perform well? Give the PEAS description for the agents in a medical diagnosis system that can diagnose a patient like an expert doctor.
+
+---
+
+### 2015 Exam
+
+**Group “A”**  
+Brief Answer Questions: (10x1=10)  
+1. What is Artificial Intelligence?  
+2. Define omniscience.  
+3. How is the performance of a search algorithm measured?  
+4. What is cryptarithmetic?  
+5. What is the limitation of propositional logic over predicate logic?  
+6. State the Modus Ponens inference rule with a suitable example.  
+7. Define Conjunctive Normal Form (CNF) with a suitable example.  
+8. Define mutation in genetic algorithms.  
+9. Define rule-based expert systems.  
+10. What is meant by machine translation in NLP?
+
+**Group “B”**  
+Short Answer Questions: (5x3=15)  
+11. Compare breadth-first search and depth-first search.  
+12. List operators used in propositional logic and explain any two of them with examples.  
+13. Differentiate between universal and existential quantifiers.  
+14. Explain the different components of an expert system.  
+15. What is meant by Natural Language Processing? Parse the sentence "He hit the man with the hammer" using top-down parsing.
+
+**Group “C”**  
+Long Answer Questions: (1x15=15)  
+16. Define agent. Explain any three types of environments for an agent.  
+17. Define the Mini-Max Search procedure with a suitable example.  
+18. What is the activation function in a neural network? Explain different types of activation functions.
+
+---
+
+### 2017 Exam
+
+**Group “A”**  
+Brief Answer Questions: (10x1=10)  
+1. When is a machine termed intelligent in the Turing Test?  
+2. Define agent function.  
+3. Why is pragmatic analysis necessary in NLP?  
+4. In what type of situation can fuzzy logic be used?  
+5. Convert the statement "Every husband loves his wife" into FOPL.  
+6. What is unsupervised learning?  
+7. Write any two conflict resolution strategies in a production system.  
+8. What is skolemization?  
+9. What do you mean by admissible heuristics?  
+10. What is alpha-beta pruning?
+
+**Group “B”**  
+Short Answer Questions: (5x4=20)  
+2. How does a goal-based agent work? Explain.  
+3. Differentiate between forward chaining and backward chaining with a suitable example.  
+4. Explain any two activation functions.  
+5. Why is the genetic algorithm important? Explain different operators of a genetic algorithm with a suitable example.  
+6. Explain a learning agent with a block diagram.
+
+**Group “C”**  
+Comprehensive Questions: (2x5=10)  
+7. Define game-playing search. Why is alpha-beta pruning better than the Mini-Max algorithm? Justify with a suitable game tree.  
+8. Ram is a boy. Sita is a girl. Ram is the husband of Sita. If a girl has a husband, then she is married. Write the above knowledge base in predicate logic and show that “Sita is married” using the resolution algorithm.
+
+---
+
+### 2018 Exam
+
+**Group “A”**  
+Brief Answer Questions: (10x1=10)  
+1. What is a learning agent?  
+2. What is alpha-beta pruning?  
+3. Define inference engine.  
+4. List the components of problem definition.  
+5. What is meant by logical consequence?  
+6. In which situation can fuzzy logic be used?  
+7. What is meant by an expert system shell?  
+8. Write on the crossover operator in genetic algorithms with a suitable example.  
+9. What is pragmatic analysis?  
+10. What is DENDRAL?
+
+**Group “B”**  
+Short Answer Questions: (5x4=20)  
+2. In which situation is hill-climbing search more appropriate? Explain.  
+3. Explain the benefits of reinforcement learning.  
+4. Provide an example to illustrate the working of the forward chaining method in a production system.  
+5. Write the algorithm for Depth First Search.  
+6. Consider the following statements:  
+   - Jack owns a dog.  
+   - Every dog owner is an animal lover.  
+   - No animal lover kills an animal.  
+   - Either Jack or Curiosity killed the cat, who is named Tuna.  
+   Using the resolution principle, prove that Curiosity killed the cat.
+
+**Group “C”**  
+Comprehensive Questions: (2x5=10)  
+7. What do you mean by testing a neural network? Explain with an example.  
+8. Differentiate between first-order predicate language and propositional logic. How will you use first-order predicate language? Provide an example.
+
+---
+
+### 2023 Exam
+
+**Group “A”**  
+Brief Answer Questions: (10x1=10)  
+1. How does a utility-based agent differ from a goal-based agent?  
+2. How does a deterministic environment differ from a stochastic environment?  
+3. What is a constraint satisfaction problem?  
+4. Give an example of skolemization.  
+5. List the problems of depth-limited search.  
+6. What is the limitation of the sigmoid activation function?  
+7. Write any two conflict resolution strategies in a production system.  
+8. Numerically illustrate the fuzzy union operation.  
+9. Write the heuristic function for A* search.  
+10. What are the types of crossover in genetic algorithms?
+
+**Group “B”**  
+Short Answer Questions: (5x4=20)  
+2. Describe hill climbing search. Explain problems associated with it.  
+3. Given the following premises, use resolution to prove that “Puppy is Loyal”:  
+   - All animals who can bark are dogs.  
+   - Dogs are loyal.  
+   - Puppy is a dog.  
+  
+
+ - Puppy can bark.  
+4. Differentiate between Breadth First Search (BFS) and Depth First Search (DFS).  
+5. Define logical consequence. Prove that (P OR Q) is a logical consequence of (P&Q), but (P&Q) is not a logical consequence of (P OR Q).  
+6. Explain the difference between Hebbian learning and reinforcement learning with examples.
+
+**Group “C”**  
+Comprehensive Questions: (2x5=10)  
+7. Define neural networks. Describe the learning process of backpropagation with an example.  
+8. What do you mean by constraint satisfaction problems? Solve the cryptarithmetic puzzle:  
+   ```
+     CROSS  
+   + ROADS  
+   --------  
+   DANGER  
+   ```

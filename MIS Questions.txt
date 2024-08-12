@@ -1,0 +1,251 @@
+Here are the extracted questions, corrected for any errors:
+
+### **1. January 2023 (7th-sem-1.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. Define e-business.
+2. List out the components of IS.
+3. What is the purpose of the value chain model?
+4. Define sales force automation.
+5. What is the advantage of a virtual company?
+6. What are the uses of data mining?
+7. List out any four characteristics of the transaction process system (TPS).
+8. Define goal-seeking analysis.
+9. List out the types of information systems on the basis of organization structure.
+10. What do you mean by low-cost leadership strategy?
+
+#### **Group “B”** (Short Answer Questions)
+2. Explain how IS can be used for achieving competitive advantage.
+3. Explain the need and process of business process reengineering.
+4. Explain the types of databases.
+5. Explain any four types of tools for enterprise collaboration.
+6. How is DSS advantageous for decision-making?
+
+#### **Group “C”** (Comprehensive Questions)
+1. Explain the factors that should be considered by a manager for a successful implementation of an information system.
+2. What are the things that should be considered for developing a customer-focused business?
+
+---
+
+### **2. January 2022 (7th-sem-6-1.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. Differentiate between e-business and e-commerce.
+2. List out different components of an information system.
+3. List out the competitive forces for achieving a competitive advantage.
+4. What do you mean by business process reengineering?
+5. Define virtual company.
+6. Why are data in a data warehouse non-volatile and subject-oriented?
+7. List out any two characteristics of a transaction processing system.
+8. What do you mean by interactive marketing?
+9. How does sales automation help to achieve strategic advantages in sales productivity and marketing responsiveness?
+10. Differentiate between unstructured, semi-structured, and structured decision-making.
+
+#### **Group “B”** (Short Answer Questions)
+2. What are the activities and examples of different types of analytical modeling?
+3. What are several e-business applications that you might recommend to a small company to help it survive and succeed in challenging economic times? Why?
+4. What is the advantage of a knowledge management system for sustaining a competitive advantage?
+5. How is the organization benefited by the use of a Financial Management System?
+6. What are the key components of a CRM system? What is the business purpose of each of them?
+
+#### **Group “C”** (Comprehensive Questions)
+1. Why is there a trend towards cross-functional integrated enterprise systems in business? Explain.
+2. How does a Decision Support System help managers improve their decision-making capabilities? Explain with an example.
+
+---
+
+### **3. April 2019 (ai-1_watermark_page-0005.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. Define an information system.
+2. How can a company become agile?
+3. Write any one advantage of a virtual company.
+4. Define knowledge management system.
+5. What do you mean by what-if analysis?
+6. List OLAP activities.
+7. List attributes of quality information.
+8. Name different components of targeted marketing.
+9. What do you mean by the threat of substitutes?
+10. Define database interrogation.
+
+#### **Group “B”** (Short Answer Questions)
+2. How does a marketing information system help an organization become customer-focused? Explain.
+3. How can Internet technologies help a business form strategic alliances with its customers, suppliers, and others?
+4. What are the most important HR applications a company should offer to its employees via a Web-based system? Why?
+5. Define Enterprise Collaboration Systems. Discuss different tools for Enterprise Collaboration.
+6. List different types of Information Systems. Describe Decision Support Systems.
+
+#### **Group “C”** (Comprehensive Questions)
+1. Provide an example to explain how information systems can enable an organization to advance its operational-level tasks and activities.
+2. What are the management challenges in developing IT solutions to solve business problems and meet new business opportunities?
+
+---
+
+### **4. January 2020 (macro-1_watermark_page-0005.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. List different academic resources of IS.
+2. Who uses TPS and DSS?
+3. Define BPR.
+4. What do you mean by cost leadership strategy?
+5. Define OLAP.
+6. What is sensitivity analysis?
+7. Define data mining.
+8. Differentiate between a hypermedia database and an external database.
+
+#### **Group “B”** (Short Answer Questions)
+2. Explain the components of IS in detail with appropriate examples.
+3. What is GIS? How can GIS be used in Sales and Marketing? Explain.
+4. What are several e-business applications that you might recommend to a small company to help it survive and succeed in a challenging economic environment? Why?
+5. What is the value chain? Explain the primary and support activities of the value chain.
+6. What is MIS? What are the differences between MIS and DSS? Explain them.
+
+#### **Group “C”** (Comprehensive Questions)
+1. How could a business use Internet technologies to form a virtual company or become an agile competitor?
+2. Name different functional business information systems. Explain the Marketing Information System.
+
+---
+
+### **5. 2013 (mis-2013.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. What are the functions of a firewall?
+2. What is MIS?
+3. List major functional areas of an organization.
+4. What do you mean by the traditional life cycle model for system development?
+5. What do you mean by Supply Chain Management (SCM)?
+6. Define the prototyping method for system development.
+7. Define information.
+8. What is intellectual property?
+9. What is B2C e-commerce?
+10. Define the term accountability.
+
+#### **Group “B”** (Short Answer Questions)
+2. How can an organization increase switching costs for customers?
+3. What is an Information System? Explain its types and the relationship between them.
+4. Write about the social issues that may arise due to the quality of an information system.
+5. List the reasons why the implementation of an Information System may fail.
+6. Describe how an organization can benefit from the interactive website of the organization.
+
+#### **Group “C”** (Long Answer Questions)
+1. Explain the technological improvements that resulted in security threats to information systems.
+2. Why are traditional financial models not generally appropriate for evaluating information systems? Explain portfolio analysis.
+3. Why is understanding the features of an organization necessary for the success of an information system in the organization?
+
+---
+
+### **6. 2014 (mis-2014.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. What do you mean by Business Process?
+2. List different types of MIS reports.
+3. Define the term Information.
+4. What do you mean by Business Process Re-Engineering (BPR)?
+5. What do you mean by core competency?
+6. What do you mean by Critical Success Factor (CSF)?
+7. Define Decision Support System (DSS).
+8. What do you mean by Computer Based Information System (CBIS)?
+9. Define Electronic Data Interchange (EDI).
+10. What is e-commerce?
+
+#### **Group “B”** (Short Answer Questions)
+2. Explain how an Intranet supports business process integration and improves organizational performance.
+3. Why is system implementation/conversion necessary? Discuss the types of system implementation/conversion.
+4. How can IT support a company’s business processes and decision-making to become competitive?
+5. How can an information system help the human resource management functional area of organizations?
+6. What is Customer Relationship Management System (CRMS)? How can it benefit an organization?
+
+#### **Group “C”** (Long Answer Questions)
+1. Differentiate among Decision Support System (DSS), Management Information System (MIS), and Executive Support System (ESS).
+2. If the privacy of a user of a social networking site is breached, in this case, who do you think is guilty—the user or the social networking site? Give your point of view.
+3. What are the most common security threats against Information Systems? Describe the types of Information system control.
+
+---
+
+### **7. 2015 (mis-2015.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. List the tasks of a system analyst.
+2. What is business process re-engineering?
+3. Define agency cost theory.
+4. Differentiate between a virus and a worm.
+5. Define Information System.
+6. What is computer forensics?
+7. Define information asymmetry.
+8. Define Electronic Data Interchange.
+9. Why are employees said to be internal threats?
+10. What is enterprise resource planning?
+
+#### **Group “B”** (Short Answer Questions)
+2. Explain the business value of the internet, intranet, and extranet.
+3. Identify electronic payment systems and describe them.
+4. Evaluate the business value of security and control.
+5. What are network economies? Explain.
+6. How does an information system affect the quality of life? Explain.
+
+#### **Group “C”** (Long Answer Questions)
+1. How are information requirements established in an organization? Explain the conversion process of system development.
+2. Explain information systems from a functional perspective. How can these functions be integrated?
+3. Assess change management challenges for business process reengineering.
+
+---
+
+### **8. 2016 (mis-2016.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. Define management information system.
+2. Why is copyright created?
+3. Write one of the tasks performed in the human resource unit of an organization.
+
+
+4. What is the use of a digital certificate?
+5. Define social engineering.
+6. What is data redundancy?
+7. Define a network protocol.
+8. What do you mean by a digital firm?
+9. What is a supply chain?
+10. What do you mean by cloud computing?
+
+#### **Group “B”** (Short Answer Questions)
+2. Explain the types of information system projects.
+3. Explain the use of RFID in organizations.
+4. Explain the benefits of using an Enterprise Resource Planning system.
+5. How can an organization use a Customer Relationship Management System to build a better relationship with customers?
+6. Explain the process of system development.
+
+#### **Group “C”** (Long Answer Questions)
+1. What are the components of an information system? Discuss each in detail.
+2. Define Electronic Payment System (EPS). Explain different types of EPS with examples.
+3. What is the relationship between the information system and the business process of an organization?
+
+---
+
+### **9. 2017 (mis-2017.jpg)**
+
+#### **Group “A”** (Brief Answer Questions)
+1. Define Cloud Computing.
+2. Differentiate between B2B and B2C e-commerce.
+3. Define the term ‘Information System’.
+4. What do you mean by the value chain?
+5. What is knowledge management?
+6. Define Supply Chain Management.
+7. Define a digital firm.
+8. Define System Analyst.
+9. What is the importance of a database management system?
+10. What do you mean by group decision support system?
+
+#### **Group “B”** (Short Answer Questions)
+2. Explain the role of a database management system in information management.
+3. Differentiate between cloud computing and grid computing.
+4. What is business process re-engineering? Explain the benefits of BPR.
+5. How can an information system support business operations?
+6. What are the key challenges for building and managing systems?
+
+#### **Group “C”** (Long Answer Questions)
+1. What do you understand by Enterprise Systems? How does ERP support Enterprise Systems?
+2. Explain why security is important in information systems. What are the techniques to secure the information system?
+3. Explain the evolution of information systems in an organization.
+
+---
+
+These are the questions extracted from the images you provided. Let me know if you need further assistance!

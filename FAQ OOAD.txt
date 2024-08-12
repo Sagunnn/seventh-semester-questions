@@ -1,0 +1,54 @@
+Based on the exam questions from 2017 to 2023, here are the most frequently repeated topics and types of questions asked in the Object Oriented Analysis and Design (IT 227) course:
+
+Most Repeated Topics:
+
+1. UML Diagrams:
+   - Class diagrams
+   - Use case diagrams
+   - Sequence diagrams
+   - Activity diagrams
+   - State diagrams
+
+2. Design Patterns:
+   - Singleton pattern
+   - Factory pattern
+   - Observer pattern
+   - Adapter pattern
+
+3. GRASP Patterns:
+   - Information Expert
+   - Creator
+   - Low Coupling
+   - High Cohesion
+
+4. Object-Oriented Concepts:
+   - Abstract classes and interfaces
+   - Association and composition
+   - Inheritance and polymorphism
+
+5. Software Development Process:
+   - Unified Process (UP)
+   - Iterative development
+   - Phases of Rational Unified Process
+
+Types of Questions Asked:
+
+1. Brief Answer Questions (1 mark each):
+   - Definitions of key terms
+   - Identifying components or characteristics of different diagrams
+   - Explaining basic concepts in OOAD
+   - Describing the purpose of specific diagrams or patterns
+
+2. Exercise Problems (4 marks each):
+   - Drawing UML diagrams for given scenarios
+   - Implementing design patterns in code
+   - Explaining patterns with examples
+   - Converting diagrams to code or vice versa
+
+3. Comprehensive Questions (5 marks each):
+   - Detailed explanations of complex topics (e.g., GRASP patterns, UP phases)
+   - Writing full programs to demonstrate design patterns
+   - Comparing and contrasting different methodologies or patterns
+   - Analyzing and designing systems using multiple UML diagrams
+
+The questions tend to focus on both theoretical understanding and practical application of OOAD concepts, with an emphasis on UML modeling, design patterns, and software development processes.
