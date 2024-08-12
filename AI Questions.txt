@@ -197,9 +197,7 @@ Short Answer Questions: (5x4=20)
    - All animals who can bark are dogs.  
    - Dogs are loyal.  
    - Puppy is a dog.  
-  
-
- - Puppy can bark.  
+   - Puppy can bark.  
 4. Differentiate between Breadth First Search (BFS) and Depth First Search (DFS).  
 5. Define logical consequence. Prove that (P OR Q) is a logical consequence of (P&Q), but (P&Q) is not a logical consequence of (P OR Q).  
 6. Explain the difference between Hebbian learning and reinforcement learning with examples.
